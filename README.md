@@ -52,4 +52,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Feel free to modify and customize the above README file based on your project's specifics. Provide clear instructions for users to implement and use your model in Google Colab, and ensure that you include relevant details about the dataset, model training, and model prediction.
+
